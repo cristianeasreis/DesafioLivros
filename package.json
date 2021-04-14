@@ -1,0 +1,29 @@
+{
+  "name": "Desafio_Livros",
+  "version": "1.0.0",
+  "description": "Desafio",
+  "main": "Index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "save": "^2.4.0",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianeasreis/Desafio_Livros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianeasreis/Desafio_Livros/issues"
+  },
+  "homepage": "https://github.com/cristianeasreis/Desafio_Livros#readme"
+}
